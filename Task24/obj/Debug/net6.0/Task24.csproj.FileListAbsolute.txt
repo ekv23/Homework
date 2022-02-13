@@ -1,0 +1,15 @@
+/Users/ekaterina/Desktop/c#/Homework/Task24/obj/Debug/net6.0/Task24.csproj.AssemblyReference.cache
+/Users/ekaterina/Desktop/c#/Homework/Task24/obj/Debug/net6.0/Task24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina/Desktop/c#/Homework/Task24/obj/Debug/net6.0/Task24.AssemblyInfoInputs.cache
+/Users/ekaterina/Desktop/c#/Homework/Task24/obj/Debug/net6.0/Task24.AssemblyInfo.cs
+/Users/ekaterina/Desktop/c#/Homework/Task24/obj/Debug/net6.0/Task24.csproj.CoreCompileInputs.cache
+/Users/ekaterina/Desktop/c#/Homework/Task24/bin/Debug/net6.0/Task24
+/Users/ekaterina/Desktop/c#/Homework/Task24/bin/Debug/net6.0/Task24.deps.json
+/Users/ekaterina/Desktop/c#/Homework/Task24/bin/Debug/net6.0/Task24.runtimeconfig.json
+/Users/ekaterina/Desktop/c#/Homework/Task24/bin/Debug/net6.0/Task24.dll
+/Users/ekaterina/Desktop/c#/Homework/Task24/bin/Debug/net6.0/ref/Task24.dll
+/Users/ekaterina/Desktop/c#/Homework/Task24/bin/Debug/net6.0/Task24.pdb
+/Users/ekaterina/Desktop/c#/Homework/Task24/obj/Debug/net6.0/Task24.dll
+/Users/ekaterina/Desktop/c#/Homework/Task24/obj/Debug/net6.0/ref/Task24.dll
+/Users/ekaterina/Desktop/c#/Homework/Task24/obj/Debug/net6.0/Task24.pdb
+/Users/ekaterina/Desktop/c#/Homework/Task24/obj/Debug/net6.0/Task24.genruntimeconfig.cache

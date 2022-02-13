@@ -1,0 +1,15 @@
+/Users/ekaterina/Desktop/c#/Homework/Task20/obj/Debug/net6.0/Task20.csproj.AssemblyReference.cache
+/Users/ekaterina/Desktop/c#/Homework/Task20/obj/Debug/net6.0/Task20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina/Desktop/c#/Homework/Task20/obj/Debug/net6.0/Task20.AssemblyInfoInputs.cache
+/Users/ekaterina/Desktop/c#/Homework/Task20/obj/Debug/net6.0/Task20.AssemblyInfo.cs
+/Users/ekaterina/Desktop/c#/Homework/Task20/obj/Debug/net6.0/Task20.csproj.CoreCompileInputs.cache
+/Users/ekaterina/Desktop/c#/Homework/Task20/bin/Debug/net6.0/Task20
+/Users/ekaterina/Desktop/c#/Homework/Task20/bin/Debug/net6.0/Task20.deps.json
+/Users/ekaterina/Desktop/c#/Homework/Task20/bin/Debug/net6.0/Task20.runtimeconfig.json
+/Users/ekaterina/Desktop/c#/Homework/Task20/bin/Debug/net6.0/Task20.dll
+/Users/ekaterina/Desktop/c#/Homework/Task20/bin/Debug/net6.0/ref/Task20.dll
+/Users/ekaterina/Desktop/c#/Homework/Task20/bin/Debug/net6.0/Task20.pdb
+/Users/ekaterina/Desktop/c#/Homework/Task20/obj/Debug/net6.0/Task20.dll
+/Users/ekaterina/Desktop/c#/Homework/Task20/obj/Debug/net6.0/ref/Task20.dll
+/Users/ekaterina/Desktop/c#/Homework/Task20/obj/Debug/net6.0/Task20.pdb
+/Users/ekaterina/Desktop/c#/Homework/Task20/obj/Debug/net6.0/Task20.genruntimeconfig.cache
